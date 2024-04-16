@@ -1,0 +1,22 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .columns-container {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .column {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    flex: 1;
+  }
+  
+  .column h3 {
+    margin-top: 0;
+  }
+  
